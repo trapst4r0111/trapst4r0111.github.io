@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+    background-color: chocolate;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 50px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(95, 43, 43);
+    font-style: italic;
+    padding: 20px;
+}
+
+p{
+    font-family: cursive;
+    padding: 3px;
+    color: rgb(61, 28, 104);
+    
+}
+
+.flashbang{
+    color: white;
+    font-size: 100px;
+    padding-bottom: 100px;
+    font-family: Tahoma;
+}
+
+a{
+    color: chartreuse;
+}
+
+img{
+    height: 250px;
+    padding: 0 50px 50px 50px;
+}
